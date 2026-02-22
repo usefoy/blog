@@ -1,2 +1,2 @@
 # blog
-blog files
+This is the repo hosting my blog
