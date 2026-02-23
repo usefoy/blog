@@ -1,20 +1,13 @@
 ---
-
 title: من الأمن السيبراني إلى الذكاء الاصطناعي: كيف تتكامل الطبقات؟
-
 description: قراءة في العلاقة بين الأمن السيبراني والذكاء الاصطناعي داخل المؤسسات.
-
 author: Yousef
-
 date: 2026-02-23 09:10:00 +0300
-
-categories: \[Cybersecurity, AI, Digital Transformation]
-
-tags: \[cybersecurity, ai, data, governance]
-
+categories: [Cybersecurity, AI, Digital Transformation]
+tags: [cybersecurity, ai, data, governance]
 lang: ar
-
 ---
+
 
 
 
@@ -149,4 +142,5 @@ lang: ar
 
 
 أرجو استخدام الروابط في السايدبار.
+
 
