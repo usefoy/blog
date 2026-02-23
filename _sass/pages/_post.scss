@@ -494,3 +494,51 @@ h4 {
     scroll-margin-top: 2rem;
   }
 }
+
+/* ============================= */
+/* RTL Support (Arabic Posts)   */
+/* ============================= */
+
+.rtl-post {
+
+  /* Only flip actual post content */
+  .content {
+    direction: rtl;
+    text-align: right;
+  }
+
+  .content h1,
+  .content h2,
+  .content h3,
+  .content h4,
+  .content h5,
+  .content h6 {
+    text-align: right;
+  }
+
+  .content ul,
+  .content ol {
+    padding-right: 1.5rem;
+    padding-left: 0;
+  }
+
+  .content blockquote {
+    border-right: 4px solid var(--main-border-color);
+    border-left: none;
+  }
+
+  /* Keep TOC layout LTR but align Arabic text correctly */
+  #toc-wrapper {
+    direction: ltr; // IMPORTANT: prevents disappearing
+  }
+
+  #toc-wrapper ul li a {
+    text-align: right;
+  }
+
+  /* Fix mobile TOC bar label */
+  #toc-bar .label {
+    text-align: right;
+  }
+
+}
