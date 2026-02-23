@@ -207,6 +207,11 @@ compress_html:
   blanklines: false
   ignore:
     envs: [development]
+include:
+  - "robots.txt"
+
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - "*.gem"
