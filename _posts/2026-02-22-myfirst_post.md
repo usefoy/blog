@@ -6,7 +6,7 @@ date: 2026-02-22 19:33:00 +0300
 categories: [Blogging, Ideas]
 tags: [blog]
 lang: ar
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
