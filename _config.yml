@@ -47,7 +47,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: google2c1cd49ce8ee2d48
+  google: EgLz-pVyZl63a_FUgHoz4cTChcEkZl5hKURTLcAL7Jg
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -76,7 +76,9 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: "goatcounter"
+  goatcounter:
+    url: "https://usefoy.goatcounter.com"
 
 # Prefer color scheme setting.
 #
