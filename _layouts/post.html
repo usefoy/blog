@@ -13,7 +13,8 @@ script_includes:
 
 {% include toc-status.html %}
 
-<article class="px-1 {% if page.lang == 'ar' %}rtl{% endif %}" data-toc="{{ enable_toc }} " {% if page.lang == 'ar' %}dir="rtl"{% endif %}>
+<article class="px-1 {% if page.lang == 'ar' %}rtl-post{% endif %}" 
+         data-toc="{{ enable_toc }}">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
