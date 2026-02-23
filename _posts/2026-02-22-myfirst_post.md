@@ -1,10 +1,11 @@
 ---
 title: Hello World!
 description: First post to the github blog.
-author: cotes
+author: Yousef
 date: 2026-02-22 19:33:00 +0300
 categories: [Blogging, Ideas]
 tags: [blog]
+lang: ar
 pin: true
 math: true
 mermaid: true
