@@ -1,6 +1,6 @@
 ---
-title: Between KPIs and Reality: Notes from Inside the System
-description: A reflection on performance, authenticity, and real transformation in technical education.
+title: مابين مؤشرات الأداء والواقع
+description: تأملات حول مؤشرات الأداء والتحول الرقمي - الفرق بين الواقع وما نعرضه في التقارير.
 author: Yousef
 date: 2026-02-25 21:10:00 +0300
 categories: [Blog, Digital Transformation]
@@ -36,5 +36,6 @@ lang: ar
 ## كلمة أخيرة
 
 أنا أؤمن أن الإصلاح الحقيقي يبدأ من سؤال بسيط: هل نحن نقيس الحقيقة… أم نصنعها؟ التغيير الذي أطمح إليه ليس صاخب وسريع، بل عميق ومستدام.  
+
 
 من يريد أن يبني مستقبلًا قائمًا على البيانات، فعليه أولًا أن يتحمّل صدقها.
