@@ -2,7 +2,7 @@
 title: مابين مؤشرات الأداء والواقع
 description: تأملات حول مؤشرات الأداء والتحول الرقمي - الفرق بين الواقع وما نعرضه في التقارير.
 author: Yousef
-date: 2026-02-25 21:10:00 +0300
+date: 2026-02-25 15:10:00 +0300
 categories: [Blog, Digital Transformation]
 tags: [blog, data, governance, transformation]
 lang: ar
@@ -39,3 +39,4 @@ lang: ar
 
 
 من يريد أن يبني مستقبلًا قائمًا على البيانات، فعليه أولًا أن يتحمّل صدقها.
+
